@@ -1,6 +1,7 @@
-- 👋 Hi, I’m "n", @helloworlddev.in
-- a2z.zeero2nine@gmail.com
-- 👀 I’m interested in ... DEVELOPING
+- 👋 Hi, I’m "n", narasimha@helloworlddev.in
+- https://helloworlddev.in
+- 👀 I’m interested in ... DEVELOPING India AI, Hello AI, "Hello World Travel", "Hello World" android , ios idx-firebase workspace GCP,AWS,Cloud platform LLM ML
+- browser and applications 
 - 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
