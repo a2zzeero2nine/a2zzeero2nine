@@ -1,6 +1,6 @@
 - 👋 Hi, I’m "n", narasimha@helloworlddev.in
-- https://helloworlddev.in
-- 👀 I’m interested in ... DEVELOPING India AI, Hello AI, "Hello World Travel", "Hello World" android , ios idx-firebase workspace GCP,AWS,Cloud platform LLM ML
+- https://helloworlddev.in, hellowolrd.com, nexusprimeindia.com
+- 👀 I’m interested in ... DEVELOPING India AI, Hello AI, Cloud - N - Sovereign, Hello Globe, Robo ANANYA,"Hello World Travel", "Hello World" android , ios idx-firebase workspace GCP,AWS,Cloud platform LLM ML
 - browser and applications 
 - 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ...
